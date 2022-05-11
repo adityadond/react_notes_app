@@ -24,6 +24,7 @@ function AddNote({handleAddNote}) {
         }
        
     }
+    
     return (
         <div className="note new">
         {/*the text area for our input*/}
